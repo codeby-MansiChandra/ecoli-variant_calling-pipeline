@@ -1,0 +1,19 @@
+# Data files — too large for GitHub
+data/reads/
+data/genome/
+results/
+work/
+
+# Nextflow temp files
+.nextflow/
+.nextflow.log*
+
+# Reports
+*.html
+*.zip
+
+# BAM files
+*.bam
+*.bai
+*.bcf
+*.sam
